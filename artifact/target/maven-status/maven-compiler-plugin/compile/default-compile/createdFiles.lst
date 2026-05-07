@@ -1,0 +1,14 @@
+com\laboratorio\artifact\controller\TareaController.class
+com\laboratorio\artifact\dto\TareaDTO.class
+com\laboratorio\artifact\exception\ErrorResponse.class
+com\laboratorio\artifact\exception\ResourceNotFoundException.class
+com\laboratorio\artifact\repository\TareaRepository.class
+com\laboratorio\artifact\ArtifactApplication.class
+com\laboratorio\artifact\model\entity\Tarea.class
+com\laboratorio\artifact\exception\GlobalExceptionHandler.class
+com\laboratorio\artifact\model\TareaEstado.class
+com\laboratorio\artifact\exception\ValidationException.class
+com\laboratorio\artifact\dto\TareaCreateDTO.class
+com\laboratorio\artifact\dto\TareaUpdateDTO.class
+com\laboratorio\artifact\service\TareaService.class
+com\laboratorio\artifact\dto\TareaResumenDTO.class

@@ -1,0 +1,14 @@
+F:\7mo Semestre\Programacion avanzada\U1\artifact\src\main\java\com\laboratorio\artifact\ArtifactApplication.java
+F:\7mo Semestre\Programacion avanzada\U1\artifact\src\main\java\com\laboratorio\artifact\controller\TareaController.java
+F:\7mo Semestre\Programacion avanzada\U1\artifact\src\main\java\com\laboratorio\artifact\dto\TareaCreateDTO.java
+F:\7mo Semestre\Programacion avanzada\U1\artifact\src\main\java\com\laboratorio\artifact\dto\TareaDTO.java
+F:\7mo Semestre\Programacion avanzada\U1\artifact\src\main\java\com\laboratorio\artifact\dto\TareaResumenDTO.java
+F:\7mo Semestre\Programacion avanzada\U1\artifact\src\main\java\com\laboratorio\artifact\dto\TareaUpdateDTO.java
+F:\7mo Semestre\Programacion avanzada\U1\artifact\src\main\java\com\laboratorio\artifact\exception\ErrorResponse.java
+F:\7mo Semestre\Programacion avanzada\U1\artifact\src\main\java\com\laboratorio\artifact\exception\GlobalExceptionHandler.java
+F:\7mo Semestre\Programacion avanzada\U1\artifact\src\main\java\com\laboratorio\artifact\exception\ResourceNotFoundException.java
+F:\7mo Semestre\Programacion avanzada\U1\artifact\src\main\java\com\laboratorio\artifact\exception\ValidationException.java
+F:\7mo Semestre\Programacion avanzada\U1\artifact\src\main\java\com\laboratorio\artifact\model\entity\Tarea.java
+F:\7mo Semestre\Programacion avanzada\U1\artifact\src\main\java\com\laboratorio\artifact\model\TareaEstado.java
+F:\7mo Semestre\Programacion avanzada\U1\artifact\src\main\java\com\laboratorio\artifact\repository\TareaRepository.java
+F:\7mo Semestre\Programacion avanzada\U1\artifact\src\main\java\com\laboratorio\artifact\service\TareaService.java
